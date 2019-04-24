@@ -4,7 +4,7 @@
  * @date: 2019/4/24 9:14
  */
 import java.util.Scanner;
-public class L_010 {
+public class L1_010 {
     public static void main(String[] args){
         Scanner scan=new Scanner(System.in);
         int [] a=new int [3];
